@@ -1,0 +1,16 @@
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\bin\Debug\netcoreapp3.1\BattleshipGame.exe
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\bin\Debug\netcoreapp3.1\BattleshipGame.deps.json
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\bin\Debug\netcoreapp3.1\BattleshipGame.runtimeconfig.json
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\bin\Debug\netcoreapp3.1\BattleshipGame.runtimeconfig.dev.json
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\bin\Debug\netcoreapp3.1\BattleshipGame.dll
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\bin\Debug\netcoreapp3.1\BattleshipGame.pdb
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.csproj.AssemblyReference.cache
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.BattleshipGameForm.resources
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.csproj.GenerateResource.cache
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.AssemblyInfoInputs.cache
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.AssemblyInfo.cs
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.csproj.CoreCompileInputs.cache
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.dll
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.pdb
+C:\Users\FYBEDI\source\repos\BattleshipGame\BattleshipGame\obj\Debug\netcoreapp3.1\BattleshipGame.genruntimeconfig.cache
